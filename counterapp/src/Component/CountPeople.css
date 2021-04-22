@@ -1,0 +1,18 @@
+.div2{
+    display: inline-block;
+    margin-right: 10rem;
+    padding: auto;
+}
+.people{
+    margin: auto;
+    display: inline-block;
+
+}
+#id2{
+   background-color:lightgreen;
+
+}
+#id1{
+    background-color:lightgreen;
+    text-align: center;
+}
